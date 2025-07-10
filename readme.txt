@@ -50,7 +50,7 @@ This is a **ChatGPT-like AI Assistant** that reads your resume and answers quest
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/resume-ai-chatbot.git
+git clone https://github.com/nirala7765/resume_reader.git
 cd resume-ai-chatbot
 
 
